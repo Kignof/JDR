@@ -2,12 +2,6 @@
 
 Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait of the bearfolk in question, or honors an ancestor.
 
-Male Names: Beorst, Cauldvyr, Cirdhan, Dorngal, Erlundt, Gurralt, Hrosvir, Lhod, Nodhr, Yrn.
-
-Female Names: Anga, Burli, Daegna, Durtta, Farla, Ingyrd, Johanna, Padhra, Sivaer, Tuli.
-
-Deed Names: Fireheart, Ironhide, Lightblade, Moondancer, Razorclaws, Shadowbane, Stonebones, Valgerdsdottir, Yellowfang, Yrnsson.
-
 ## Bearfolk Traits
 
 
@@ -63,7 +57,6 @@ You are resistant to cold damage.
 
 ## Purifier
 
-
 As a purifier, you are slighter of build, with reddish or pale fur and with a strong affinity for nature. Purifiers often serve as spiritual anchors in their communities. Purifiers are a recent branch of the bearfolk race.
 
 ### Ability 
@@ -76,7 +69,6 @@ You know one cantrip of your choice from the druid spell list. Wisdom is your sp
 When you make an Intelligence, Wisdom, or Charisma saving throw, you can roll a d4 and add the result to your total. You can do this after the roll but before any effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 ## Shadowborn
-
 
 As a shadowborn bearfolk, you are one of the cubs born in the Shadow Realm with a proclivity for the darkness. Shadowborn are marked by gray coats from infancy and sometimes possess strangely arcane black markings. Shadowborn not only seem to resist the darkness more easily than other bearfolk but are also often drawn to its presence.
 
