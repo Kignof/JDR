@@ -4,7 +4,7 @@ Harengons originated in the Feywild, where they spoke Sylvan and embodied the sp
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
 
-### Ability Score Increase. ======
+### Ability Score Increase.
  When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
 
 ### Creature Type.
