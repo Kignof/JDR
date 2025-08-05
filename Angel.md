@@ -8,13 +8,19 @@ your Charisma score increases by 2 and your Wisdom +1.
 Angel's are mostly humanoid but can look like any other race in order to blend in.
 
 ### Age. 
-Angel's are immortal, living from the day they were created until the end of time.
+Angel's are mortal and mature as fast as humans do as well as Living up to 350 years
 
 ### Alignment . 
-Angel's are holy beings created by a divine being. While their god may be of the evil side of the balance, the Angel's tend to stay toward the lawful or neutral side of things, but there have been cases in which Angels are chaotic.
+Angel's are holy beings once born from a divine being. 
+Despite their creator's original alignment Angels were naturally good natured and kind. However after living Millenias amongst mortals and losing their divine connection over time, 
+Angels still tend to stay toward the lawful or neutral side of things, but there have been cases in which Angels were chaotic due to what they call "corruption from mortals".
 
 ### Wings. 
-Angels have a flying speed of 30 feet, unsulable during combat.
+Angels have a flying speed of 60 feet.
+At level 1, an Angel can't use their wings to fly due to a lack of control over their powers, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your level.
+At level 3, you can glide down from heights at or higher than 20 feet
+At level 5, you can fully fly for 10 minutes.
+At level 7, you can fly indefinitely.
 
 ### Size. 
 Angels are Medium, and can nearly pass as simply tall humans or other races. Angel's are at least 6 feet, but are no larger than 10 feet.
@@ -34,11 +40,10 @@ There are different types of angels that live within the worlds: Divine Angel, R
 
 
 ## Divine Angel
-Divine Angels, also known as Pure Angels are those with the purest of hearts. 
-You fight for what is right and will always try to help those who need it.
+Divine Angels, also known as Pure Angels are those with the purest of heritages to the ancient angels. 
 
 ### Ability Score Increase. 
-As a Light Angel you can choose two other scores to increase by 1.
+As a Divine Angel you can choose two other scores to increase by 1.
 
 ### Cantrip. 
 You know one cantrip of your choice from the Warlock Spell List. Your Charisma will be the spellcasting ability for it.
