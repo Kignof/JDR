@@ -1,11 +1,10 @@
 # Bearfolk Names
 
-Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait of the bearfolk in question, or honors an ancestor.
+Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait or feat of the bearfolk in question, or honors an ancestor.
 
-## Bearfolk Traits
+## Common Bearfolk Traits
 
-
-bearfolk characters have certain characteristics in common with all other bearfolk.
+Bearfolk characters have certain characteristics in common with all other bearfolk.
 
 ### Ability Score Increase. 
 Your Strength score increases by 2.
@@ -23,7 +22,8 @@ Bearfolk can reach a height of over 7 feet, with thick, muscular builds. Your si
 Your base walking speed is 30 feet.
 
 ### Bite. 
-Your powerful jaws are natural weapons, which you can use to make unarmed strikes. If it hits, you deal 1d6 + your Strength modifier piercing damage.
+Your powerful jaws are natural weapons, which you can use to make unarmed strikes. 
+If it hits, you deal 1d6 + your Strength modifier piercing damage.
 
 ### Natural Armor. 
 Your hide is thick and tough, granting you a natural AC of 13 + your Dexterity modifier.
@@ -39,10 +39,10 @@ You can speak, read, and write Common, and either Northern or Umbral.
 
 ## Subrace 
  
-Two main subraces of bearfolk exist: **grizzlehides** and **purifiers**. There is also the **shadowborn** subrace. Choose one of them.
+Two main subraces of bearfolk exist: **grizzlehides** and **purifiers**. 
+There is also the **shadowborn** subrace. Choose one of them.
 
 ## Grizzlehide 
-
 
 As a grizzlehide bearfolk, you are thicker and hardier than your cousins. Grizzlehide fur ranges from black to golden, often with light gray or blonde tips. Tough and ferocious grizzlehides are the original bearfolk stock native to the colder northern climes.
 
@@ -50,10 +50,12 @@ As a grizzlehide bearfolk, you are thicker and hardier than your cousins. Grizzl
 Increase. Your Constitution score increases by 1.
 
 ### Bear Hug. 
-When you take the Attack action, you can make an unarmed strike as a bonus action. If you hit, you can grapple the target in addition to dealing damage to it. You can use this ability a number of times equal to your Constitution modifier (minimum of 1), and you regain all expended uses when you finish a long rest.
+When you take the Attack action, you can make a grapple attack instead of the regular melee attack. you can grapple the target in addition to dealing damage to it. You can use this ability a number of times equal to your 1 at level 1, 2 at level 8 and 3 at level 20 and you regain all expended uses when you finish a short rest.
 
 ### Thick Coat. 
 You are resistant to cold damage.
+
+
 
 ## Purifier
 
@@ -67,6 +69,8 @@ You know one cantrip of your choice from the druid spell list. Wisdom is your sp
 
 ### Stalwart Will. 
 When you make an Intelligence, Wisdom, or Charisma saving throw, you can roll a d4 and add the result to your total. You can do this after the roll but before any effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+
 
 ## Shadowborn
 
