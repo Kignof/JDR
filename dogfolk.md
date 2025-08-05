@@ -1,21 +1,21 @@
 # Dogfolk Traits 
 
-## Ability Score Increase. 
+### Ability Score Increase. 
  Your Dexterity score increases by 1 and your Charisma by 1.
 
-## Size: 
+### Size: 
  Medium (about 5–6 feet tall)
 
-## Speed: 
+### Speed: 
  30 feet
  
-## Canine Claws. 
+### Canine Claws. 
  You have claws you can use to make Unarmed Strikes, which deal 1d6 Slashing damage on a hit. On a hit, you deal slashing damage equal to 1d6 + your Dexterity modifier.
  
-## Darkvision. 
+### Darkvision. 
  You have Darkvision with a range of 60 feet.
 
-## Bite. 
+### Bite. 
  Your canine teeth are natural weapons, which you can use to make unarmed strikes. On a hit, you deal slashing damage equal to 1d6 + your Strength modifier.
 
 ### Keen Senses. 
@@ -23,7 +23,7 @@ You have advantage on Wisdom (Perception) and Wisdom (Survival) checks that that
 ## Fur coat. 
  Some dog folk have heavy coats, whereas others have a coat fit for hot weather. Choose whether you have a short coat or a long thick coat. If you have a thick coat, you have resistance to cold damage. If you have a short, sleek coat, your base speed is 35 feet.
 
-## The Thrill of the Chase. 
+### The Thrill of the Chase. 
  Dog folk communities revel in the hunt, particularly chasing game. You have proficiency in the Athletics skill.
 
 
@@ -31,7 +31,7 @@ You have advantage on Wisdom (Perception) and Wisdom (Survival) checks that that
 
 Guard dogs are protective and vigilant, capable of noticing, neutralizing, and scaring off threats. This leads them to be excel in combat, and are often great fighters, barbarians, and even paladins. Breeds that tend to fall into this category include, but are not limited to, rottweilers, akitas, mastiffs, boxers, dobermann pinschers, chow chows, and great danes.
 
-## Ability Score Increase. 
+### Ability Score Increase. 
 Your Strength score increases by 2.
 
 ### Size.
