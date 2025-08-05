@@ -13,7 +13,8 @@ The communal slant of Ratfolks stems from more than just their love of good comp
 
 Your ratfolk character has certain characteristics in common with all other ratfolk.
 
-Ability Score Increase. Your Dexterity score increases by 2 and your Intelligence score increases by 1, but your Strength score reduces by 2.
+### Ability Score Increase. 
+Your Dexterity score increases by 2 and your Intelligence score increases by 1, but your Strength score reduces by 2.
 
 ### Age. 
  Ratfolk have shorter lifespans than humans, reaching adulthood at around age 12. They live up to 60 years.
@@ -44,3 +45,46 @@ Ability Score Increase. Your Dexterity score increases by 2 and your Intelligenc
 
 ### Languages. 
  You can speak, read, and write Common.
+
+## Merchants rat
+
+### ability score increase
+your charisma score increases by 1
+
+### languages
+in addition to common, you know two additional language of your choice.
+
+### Affable candor
+you gain  proficiency in the Persuasion skill
+
+### Curious Mind
+you gain proficiency in one skill of you choice
+
+
+## Pack Rat
+
+### Ability score increase
+your Strength score malus is nullified.
+
+### appraiser's eye.
+uou have advantage on Intelligence (arcana & investigation) checks to identify objects and their worth.
+
+### crafty hands
+you gain one tool proficiency of your choice
+
+### powerful build 
+You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+## Sewer Rat
+
+### Ability score increase
+your constitution score increase by 1
+
+### Proficient swimmer
+You have a swim speed of 30feet and can hold your breath for 15 minutes
+
+### tunnel crawler
+you have advantage on wisdom (survival) to navigate while underground.
+
+### Hardy constitution
+You have Advantage against Poisons and Diseases
