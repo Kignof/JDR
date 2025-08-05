@@ -23,7 +23,8 @@ Harengons are bipedal, with the characteristic long feet of the rabbits they res
  You have proficiency in the Perception skill.
 
 ### Lucky Footwork.
- When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.
+ When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save up to 2 times, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0. 
+ you regain all expended uses when you finish a short rest.
 
 ### Rabbit Hop.
  As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
