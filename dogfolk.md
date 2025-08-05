@@ -20,7 +20,7 @@
 
 ### Keen Senses. 
 You have advantage on Wisdom (Perception) and Wisdom (Survival) checks that that involve on hearing or smell.
-## Fur coat. 
+### Fur coat. 
  Some dog folk have heavy coats, whereas others have a coat fit for hot weather. Choose whether you have a short coat or a long thick coat. If you have a thick coat, you have resistance to cold damage. If you have a short, sleek coat, your base speed is 35 feet.
 
 ### The Thrill of the Chase. 
