@@ -1,7 +1,7 @@
 # Leonin
 
 ### Ability Score Increase. 
-Your Constitution score increases by 2, and your Strength score increases by 1.
+Your Constitution score increases by 1, and your Strength score increases by 1.
 
 ### Age. 
 Leonin mature and age at about the same rate as humans.
