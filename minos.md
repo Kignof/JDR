@@ -60,6 +60,6 @@ Choose either one
 ### Pummelling Horns: 
 After making a melee attack with Horns during your turn, as a reaction you can make the target take a Strength saving throw of 6 + your Proficiency + your Strength modifier, on failure they are pushed 10 feet. If used as with a Goring Rush or the Charger feat, the target is also knocked Prone.
 ### Long Horns: 
-Once per turn unarmed strike (headbutt) at 1d8 + STR piercing, 2d8 + STR at level 8, and 3d8 + STR at level 20.
+Once per turn unarmed strike (headbutt) at 1d6 + STR piercing, 2d6 + STR at level 8, and 3d6 + STR at level 20.
 
 https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/75157-brute-large-minotaur-race
