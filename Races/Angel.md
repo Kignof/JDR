@@ -17,10 +17,10 @@ Angels still tend to stay toward the lawful or neutral side of things, but there
 
 ### Wings. 
 Angels have a flying speed of 60 feet.
-At level 1, an Angel can't use their wings to fly due to a lack of control over their powers, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your level.
-At level 3, you can glide down from heights at or higher than 20 feet
-At level 5, you can fully fly for 10 minutes.
-At level 7, you can fly indefinitely.
+- At level 1, an Angel can't use their wings to fly due to a lack of control over their powers, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your level.
+- At level 3, you can glide down from heights at or higher than 20 feet
+- At level 5, you can fully fly for 10 minutes.
+- At level 7, you can fly indefinitely.
 
 ### Size. 
 Angels are Medium, and can nearly pass as simply tall humans or other races. Angel's are at least 6 feet, but are no larger than 10 feet.
