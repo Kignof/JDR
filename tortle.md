@@ -2,7 +2,7 @@
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
 
 ### Ability Score Increase. 
-Wisdom +2, and one other ability score of your choice increases by 1.
+your Wisdom score increases by 2, and one other ability score of your choice increases by 1.
 
 ### Creature Type. 
 You are a Humanoid.
@@ -40,13 +40,13 @@ Your character can speak, read, and write Common and one other language that you
 Your Tugan character has certain characteristics in common with Tortles. Any differences are listed below.
 
 ### Ability Score Increase. 
-Your Constitution score increases by 2.
+Your Constitution score increases by 2, and one other ability score of your choice increases by 1.
 
 ### Alignment. 
 Tuga tend to lead chaotic, individualistic lives. They seek strength, beauty and to adorn themselves with attractive adornments. Most are chaotic neutral. A few have been known to act selflessly, tending more toward good, but it's unusual for a Tugan to favour others over their own quest for strength.
 
 ### Speed. 
-You have a swimming speed of 40 feet.
+You have a walking speed of 25f and a swimming speed of 40 feet.
 
 ### Darkvision. 
 You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
