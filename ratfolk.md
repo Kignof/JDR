@@ -84,7 +84,7 @@ your constitution score increase by 1
 You have a swim speed of 30feet and can hold your breath for 15 minutes
 
 ### tunnel crawler
-you have advantage on wisdom (survival) to navigate while underground.
+you have advantage on wisdom (survival) checks made to navigate while underground.
 
 ### Hardy constitution
-You have Advantage against Poisons and Diseases
+You have Advantage on Saving throws against Poisons and Diseases
