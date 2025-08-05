@@ -68,7 +68,7 @@ Score Increase. Your Wisdom score increases by 1.
 You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability score for it.
 
 ### Stalwart Will. 
-When you make an Intelligence, Wisdom, or Charisma saving throw, you can roll a d4 and add the result to your total. You can do this after the roll but before any effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
+When you make a saving throw on the following conditions : exhausted, charmed and Paralyzed, you can roll a d4 and add the result to your total. You can do this after the roll but before any effects occur. Once you use this feature, you can’t use it again until you finish a short or long rest.
 
 
 
