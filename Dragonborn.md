@@ -33,3 +33,35 @@ You have resistance to the damage type associated with your ancestry.
 
 ### Languages. 
 You can read, speak, and write Common and Draconic.
+
+
+
+
+## Draconblood
+
+Draconbloods possess long tails and a knack for social manipulation. They remember the days when they were once mighty conquerors.
+
+A draconblood uses the dragonborn traits in the Player's Handbook, with the following traits replacing the Ability Score Increase and Damage Resistance traits.
+
+### Ability Score Increase. 
+Your Intelligence score increases by 2, and your Charisma score increases by 1.
+
+### Darkvision. 
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+### Forceful Presence. 
+When you make a Intimidation or Persuasion check, you can do so with advantage once per long rest.
+
+## Ravenite
+
+Ravenites have no tails and a hearty physique. They remember the days when they were slaves to the draconblood, as well as the day when they overthrew their masters.
+
+A ravenite uses the dragonborn traits in the Player's Handbook, with the following traits replacing the Ability Score Increase and Damage Resistance traits.
+
+### Ability Score Increase. 
+Your Strength score increases by 2, and your Constitution score increases by 1.
+
+### Darkvision. 
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+### Vengeful Assault. 
+When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack against that creature. You can do this once per short or long rest.
