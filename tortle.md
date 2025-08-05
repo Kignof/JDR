@@ -2,7 +2,7 @@
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
 
 ### Ability Score Increase. 
-Strength +2, Wisdom +1
+Wisdom +2, dexterity + 1
 
 ### Creature Type. 
 You are a Humanoid.
