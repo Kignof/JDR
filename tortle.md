@@ -28,42 +28,44 @@ Thanks to your mystical connection to nature, you gain proficiency with one of t
 ### Shell Defense. 
 You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can’t increase, you have disadvantage on Dexterity saving throws, you can’t take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
-### Languages. 
-Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player’s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.
-
-## The Tortle Package
-
-What many tortles consider a simple life, others might call a life of adventure. Tortles are born near sandy coastlines, but as soon as they're able to walk on two legs, they become nomad survivalists eager to explore the wilderness, experience its many wonders, put their skills to the test, and make new acquaintances.
-
-### Ability Score Increase. 
-Your Strength score increases by 2, and your Wisdom score increases by 1.
-
-### Age. 
-Young tortles crawl for a few weeks after birth before learning to walk on two legs. They reach adulthood by the age of 15 and live an average of 50 years.
-
-### Alignment. 
-Tortles tend to lead orderly, ritualistic lives. They develop customs and routines, becoming more set in their ways as they age. Most are lawful good. A few can be selfish and greedy, tending more toward evil, but it's unusual for a tortle to shuck off order in favor of chaos.
-
-### Size. 
-Tortle adults stand 5 to 6 feet tall and average 450 pounds. Their shells account for roughly one-third of their weight. Your size is Medium.
-
-### Speed. 
-Your base walking speed is 30 feet.
-
-### Claws. 
-Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
-
-### Hold Breath. 
-You can hold your breath for up to 1 hour at a time. Tortles aren't natural swimmers, but they can remain underwater for some time before needing to come up for air.
-
-### Natural Armor.  
-Due to your shell and the shape of your body, you are ill-suited to wearing armor. Your shell provides ample protection, however; it gives you a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
-
-### Shell Defense. 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
-
 ### Survival Instinct. 
 You gain proficiency in the Survival skill. Tortles have finely honed survival instincts.
 
 ### Languages. 
-You can speak, read, and write Common and Aquan.
+Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player’s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+
+
+## Tugan tortle
+
+Your Tugan character has certain characteristics in common with Tortles. Any differences are listed below.
+
+### Ability Score Increase. 
+Your Constitution score increases by 2.
+
+### Alignment. 
+Tuga tend to lead chaotic, individualistic lives. They seek strength, beauty and to adorn themselves with attractive adornments. Most are chaotic neutral. A few have been known to act selflessly, tending more toward good, but it's unusual for a Tugan to favour others over their own quest for strength.
+
+### Speed. 
+You have a swimming speed of 40 feet.
+
+### Darkvision. 
+You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern colour in darkness, only shades of gray.
+
+### Snapping Jaw. 
+Your jaw is a vice like grip used for catching prey in the deep. 
+You may use your bite as an extra 'free hand' for grappling.
+
+### Raised in the Deep. 
+You have resistance to damage caused by being crushed or squeezed.
+
+### Deep Diver. 
+As an action, you can go into a state in which you have no need to breathe. This state can last up to 3 hours, once this state ends you gain one point of exhaustion.
+
+### Natural Armour. 
+Young Tuga have soft shells that gain hardness with age; it gives you a base AC of 10 + your Constitution modifier + your Proficiency Bonus.
+
+### Shell Defence. 
+Due to your racial adaptations you cannot withdraw into your shell.
+
+### Unadapted for land. 
+When a you are knocked prone, make a Dexterity save DC 11. On a failure you are knocked on your back and must use an action to attempt an Acrobatics check DC 11 to get back up, taking your usual speed penalty.
