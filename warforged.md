@@ -36,5 +36,46 @@ You gain one skill proficiency and one tool proficiency of your choice.
 
 ### Languages. 
 You can speak, read, and write Common and one other language of your choice.
+
+
+## Envoy
+
+As an envoy, you were designed with a certain specialized function in mind. You might be an assassin, a healer, or an entertainer, to name a few possibilities. Envoys are the rarest of the warforged subraces, and yours could be a unique design.
+
+### Ability Score Increase. 
+one different ability scores of your choice increase by 1.
+
+### Specialized Design. 
+You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice.
+
+### Integrated Tool. 
+Choose one tool you’re proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
+
+## Juggernaut
+
+You’re an imposing war machine built for close combat and raw might. You tower over your comrades; juggernaut warforged stand between 6 and 7 feet in height and can weigh up to 450 pounds.
+
+### Ability Score Increase. 
+Your Strength score increases by 1.
+
+### Iron Fists. 
+When you make an unarmed strike, you can deal 1d4 + your Strength modifier bludgeoning damage instead of the normal damage.
+
+### Powerful Build. 
+You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+## Skirmisher
+
+You were built to scout the edges of battle and outmaneuver your enemies. You are lean and designed for speed.
+
+### Ability Score Increase. 
+Your Dexterity score increases by 1.
+
+### Swift. 
+Your walking speed is increased to 35 feet.
+
+### Light Step. 
+When you are traveling alone or with a companion of small size, you can move stealthily at a normal pace.
+
     
 https://dnd5e.wikidot.com/lineage:warforged
