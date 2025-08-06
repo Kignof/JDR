@@ -1,36 +1,37 @@
 # Dwarf
+<img width="1700" height="1127" alt="image" src="https://github.com/user-attachments/assets/83851080-6cf7-444c-97a4-87e134b6d002" />
 
-Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of goblins and orcs – these common threads unite all dwarves.
+Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the echoing of picks and hammers in deep mines and blazing forges, a commitment to clan and tradition, and a burning hatred of Elves – these common threads unite all dwarves known throughout the world as the most igenious, crafty and unparralleled builders in all manners.
 
 ## common traits
 ### Ability Score Increase.
  Your Constitution score increases by 2.
 
 ### Age 
-. Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
+Dwarves mature at the same rate as humans, but they're considered young until they reach the age of 50. On average, they live about 350 years.
 
 ### Alignment 
-. Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
+Most dwarves are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order.
 
-### Size. 
+### Size 
  Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
 
-### Speed. 
+### Speed 
  Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.
 
-### Darkvision. 
+### Darkvision
  Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-### Dwarven Resilience. 
+### Dwarven Resilience
  You have advantage on saving throws against poison, and you have resistance against poison damage.
 
-### Dwarven Combat Training. 
+### Dwarven Combat Training
  You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.
 
-### Tool Proficiency. 
+### Tool Proficiency
  You gain proficiency with the artisan's tools of your choice: smith's tools, brewer's supplies, or mason's tools.
 
-### Stonecunning. 
+### Stonecunning
  Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 
 ### Languages. 
@@ -38,9 +39,7 @@ Kingdoms rich in ancient grandeur, halls carved into the roots of mountains, the
 
 ## Hill Dwarf 
 
-
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerun in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting.
-
+As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of the world in their mighty kingdom are hill dwarves.
 ### Ability Score Increase. 
  Your Wisdom score increases by 1.
 ### Dwarven Toughness. 
@@ -65,12 +64,6 @@ Dwarven legends state the best metal-crafting is done in the fires of the earth 
 Fireforge dwarves sometimes form alliances with the azer. They maintain good relations with the elementals, coming to their aid against salamanders and efreet when needed. In return, the azer assist fireforge dwarves against fire giants, who are persistent enemies of the dwarves, often competing with them for territory.
 
 Fireforge skin tones range from deep, ruddy browns to dark bronze or mahogany. Their hair is typically black, brown, or gray, with some sporting deep, copper-colored or rich, dark-red hair. Eye color tends toward brown or black and occasionally hazel or gray.
-Fireforge Dwarf Names
-
-Fireforge dwarves use the same naming conventions as other underground-dwelling dwarves.
-
-Clan Names: Dzurnark, Firefall, Firinmak, Hamarfall, Smokebeard, Visirverk
-Fireforge Dwarf Traits
 
 Your dwarven heritage coupled with your affinity for the fires of the earth grant you the following traits.
 
