@@ -1,4 +1,7 @@
 # Warforged
+<img width="702" height="1000" alt="image" src="https://github.com/user-attachments/assets/d3d40dd0-e8d3-4242-bcfb-becabd93fb3e" />
+
+The WarForged were built to fight, control and enforce law across the lands of the empire of Bokta, their creation mandated by the Holy Emperor centuries ago. The First of the WarForged were mindless but efficient automatons, often giving platoon captain the sole authority over the Warforged they've been given to supplement and fill up the ranks of lacking platoons. Over time Warforged core were exposed to the cruelty of war and the woes of mankind they slaughtered and saved, impregnating their mana crystal core with human emotions and finally giving the oldest ones a sense of self.
 
 ### Ability Score Increase. 
 Your Constitution score increases by 2, and one other ability score of your choice increases by 1.
@@ -39,7 +42,6 @@ You can speak, read, and write Common and one other language of your choice.
 
 
 ## Envoy
-
 As an envoy, you were designed with a certain specialized function in mind. You might be an assassin, a healer, or an entertainer, to name a few possibilities. Envoys are the rarest of the warforged subraces, and yours could be a unique design.
 
 ### Ability Score Increase. 
@@ -51,9 +53,10 @@ You gain one skill proficiency of your choice, one tool proficiency of your choi
 ### Integrated Tool. 
 Choose one tool you’re proficient with. This tool is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.
 
-## Juggernaut
 
-You’re an imposing war machine built for close combat and raw might. You tower over your comrades; juggernaut warforged stand between 6 and 7 feet in height and can weigh up to 450 pounds.
+
+## Juggernaut
+You’re an imposing war machine built for close combat and raw might. You tower over most; juggernaut warforged stand between 7 and 8 feet in height and can weigh up to 450 pounds.
 
 ### Ability Score Increase. 
 Your Strength score increases by 1.
@@ -64,8 +67,9 @@ When you make an unarmed strike, you can deal 1d4 + your Strength modifier bludg
 ### Powerful Build. 
 You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 
-## Skirmisher
 
+
+## Skirmisher
 You were built to scout the edges of battle and outmaneuver your enemies. You are lean and designed for speed.
 
 ### Ability Score Increase. 
