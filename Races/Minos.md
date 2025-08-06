@@ -1,4 +1,7 @@
 # Minos
+<img width="780" height="682" alt="image" src="https://github.com/user-attachments/assets/56da113a-4834-4608-b424-5a1539d9974e" />
+
+Minos are the distant and more civilized cousins of the more feral and primitive Minotaurs, evolving past their mindless hunger for carnage and battles in favor of reconnecting with their human side. They still hold some pride in their feriocious physical prowess and battle superiority, often clashing with Bearfolks and Leonines to prove their Race superiority and seeing them as rivals.
 
 ### Ability Score Increases: 
 +2 STR, +2 CON
@@ -23,6 +26,12 @@ use your STR on Intimidation checks instead of your charisma.
 ### Feared Reputation: 
 Disadvantage Persuasion with any stranger or hostile that does not know Minos (must be known, not granted by a spell). 
 Unwelcome in most settlements.
+### Powerful Build. 
+You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+### Pummelling Horns: 
+After making a melee attack with Horns during your turn, as a reaction you can make the target take a Strength saving throw of 6 + your Proficiency + your Strength modifier, on failure they are pushed 10 feet. If used as with a Goring Rush or the Charger feat, the target is also knocked Prone.
+### Long Horns: 
+Once per turn you can perform as an action an unarmed strike (headbutt) at 1d6 + STR piercing, 2d6 + STR at level 8, and 3d6 + STR at level 20.
 ### Languages: 
 Speak Minos (no written form).
 
@@ -30,7 +39,8 @@ Speak Minos (no written form).
 
 ## Herdborn Minos
 
-The idea of the Herdborn is to represent an above-ground nomadic version of Minos; they're still not a common sight, as they tend to stay well clear of civilisation, but may come into contact from time to time, making them a more obvious choice for a player character.
+Herdborn Minos are Minos living the nomadic life Minos have naturally evolved to before mimicking humans and settling down in cities themselves.
+They're still not a common sight, as they tend to stay well clear of civilisation, but may come into contact from time to time. Most Minos maturing into adulthood leave their herd to explore the world and prove themselves as a member of the proud Minos race before coming back wiser and more experienced to defend and guide the future generations.
 
 ### Alignment: 
 Tend towards neutral, lawful if from a self-sufficient tribe, chaotic if from one that may need to raid for supplies.
@@ -43,7 +53,7 @@ Speaks, reads and writes Common to a rudimentary degree
 
 ## Labyrinthine Minos
 
-This is the classic maze-dwelling monster; tend to be loners except in larger areas of the underdark where a group may control shared territory. More vicious and monstrous.
+The Labyrinthine Minos are Minos who desires to go back to their roots of Minotaurs, leaving their herd to never return. They embrace the more vicious and monstruous side of their heritage and don't shy away from a fight.
 
 ### Alignment: Tend 
 towards evil (not above eating someone)
@@ -52,14 +62,5 @@ Easier to catch prey in your labyrinth if you can actually see.
 ### Labyrinthine Recall: 
 Can perfectly recall any route you have travelled.
 
-
-Racial feat : 
-
-Choose either one
-
-### Pummelling Horns: 
-After making a melee attack with Horns during your turn, as a reaction you can make the target take a Strength saving throw of 6 + your Proficiency + your Strength modifier, on failure they are pushed 10 feet. If used as with a Goring Rush or the Charger feat, the target is also knocked Prone.
-### Long Horns: 
-Once per turn unarmed strike (headbutt) at 1d6 + STR piercing, 2d6 + STR at level 8, and 3d6 + STR at level 20.
 
 https://www.dndbeyond.com/forums/dungeons-dragons-discussion/homebrew-house-rules/75157-brute-large-minotaur-race
