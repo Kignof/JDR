@@ -1,8 +1,7 @@
 # Leonin
 <img width="1500" height="1102" alt="image" src="https://github.com/user-attachments/assets/78e90a11-4d01-4dcd-b733-8b6b61e6b51a" />
 
-The leonin live on a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond their home border mountains and seek to test themselves in a wider world.
-
+The leonin originate from golden plains where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples in groups, having all they need in their shimmering homeland and knowing the treachery of strangers, they send their youngs on the cusp of adulthood on a Rite of passage demanding they bring back a worthy trophy within a year's time lest they get ostracisted. Most comeback to their tribe with skulls from Defeated bearfolk or necklaces of Minos horns they defeated in battle, shaming those defeated forever in their herds, some even coming back with riches or symbols from other Leonin tribes they earned through fair battle. Still, some leonin wonder what lies further beyond and seek to test themselves further in the  wider world leaving their tribe.
 
 
 ### Ability Score Increase. 
