@@ -1,1 +1,1 @@
-
+Le Saint Pays D'Atlyn est le pays le plus religieux du continent d'Elcouth, dirigé par un roi et toute une noblesse. Celui-ci vénére plusieur dieux en harmonie sans causer de conflits entre les différents fidèles. Le Saint Royaume d'Atlyn est aussi en bon termes avec le pays des anges au nord-est de celui-ci.
