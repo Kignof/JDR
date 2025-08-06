@@ -1,6 +1,7 @@
 # Elf
+<img width="1700" height="2008" alt="image" src="https://github.com/user-attachments/assets/237350d6-7a8c-4c33-a38e-7e23404962c8" />
 
-Elves are a magical people of otherworldly grace, living in places of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with faerie light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry.
+Elves are a magical people of otherworldly grace and beauty, living in palaces of ethereal beauty, in the midst of ancient forests or in silvery spires glittering with light, where soft music drifts through the air and gentle fragrances waft on the breeze. Elves love nature and magic, art and artistry, music and poetry yet their origins remain unknown to themselves and their hatred for Dwarves is as old as they can remember but can't explain it.
 
 ### Ability Score Increase. 
 Your Dexterity score increases by 2.
@@ -9,7 +10,7 @@ Your Dexterity score increases by 2.
 Although elves reach physical maturity at about the same age as humans, the elven understanding of adulthood goes beyond physical growth to encompass worldly experience. An elf typically claims adulthood and an adult name around the age of 100 and can live to be 750 years old.
 
 ### Alignment. 
-Elves love freedom, variety, and self-expression, so they lean strongly towards the gentler aspects of chaos. They value and protect others' freedom as well as their own, and are good more often than not. Drow are an exception; their exile into the Underdark has made them vicious and dangerous. Drow are more often evil than not.
+Elves love freedom, variety, and self-expression, so they lean strongly towards the gentler aspects of chaos. They value and protect others' freedom as well as their own, and are good more often than not. 
 
 ### Size. 
 Elves range from under 5 to over 6 feet tall and have slender builds. Your size is Medium.
@@ -20,7 +21,7 @@ Your base walking speed is 30 feet.
 ### Darkvision. 
 Accustomed to twilit forests and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 
-### Fey Ancestry. 
+### unmatched beauty. 
 You have advantage on saving throws against being charmed, and magic can't put you to sleep.
 
 ### Trance. 
