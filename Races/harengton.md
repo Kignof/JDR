@@ -1,4 +1,5 @@
 # Harengton
+<img width="800" height="1231" alt="image" src="https://github.com/user-attachments/assets/e252538d-8d72-4961-afdf-88e659849753" />
 
 Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went.
 
