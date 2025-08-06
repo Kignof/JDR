@@ -1,7 +1,7 @@
 # Harengton
 <img width="800" height="1231" alt="image" src="https://github.com/user-attachments/assets/e252538d-8d72-4961-afdf-88e659849753" />
 
-Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went.
+Harengons originated in the wilderness of the primal forest, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the primal forest exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
 
