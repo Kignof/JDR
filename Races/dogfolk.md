@@ -1,7 +1,7 @@
 # Dogfolk Traits 
 <img width="474" height="527" alt="image" src="https://github.com/user-attachments/assets/25d94839-5798-4d83-bfc3-51b66955d6ba" />
 
-
+Dogfolk culture is ruled by a rite of passage called The Hunt. At the age of 2, Dogfolk enter their annaul Hunt. Their success in this rite of passage determines the social status one has within their local Pack. The most successful Hunters become figureheads for the Dogfolk people, and those that are the least successful become outcasts or looked down upon.
 
 ### Ability Score Increase. 
  Your Dexterity score increases by 1 and your Charisma by 1.
@@ -23,6 +23,7 @@
 
 ### Keen Senses. 
 You have advantage on Wisdom (Perception) and Wisdom (Survival) checks that that involve on hearing or smell.
+
 ### Fur coat. 
  Some dog folk have heavy coats, whereas others have a coat fit for hot weather. Choose whether you have a short coat or a long thick coat. If you have a thick coat, you have resistance to cold damage. If you have a short, sleek coat, your base speed is 35 feet.
 
