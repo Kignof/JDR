@@ -1,1 +1,1 @@
-![alt text](https://drive.google.com/file/d/1Z-msvO7MGpTRpWamOnka14OLUOA2pg-C/view?usp=sharing")
+![alt text](https://media.discordapp.net/attachments/1223688550126714981/1400074700356587631/MAP_reboot_1.png?ex=68948b2c&is=689339ac&hm=61e77a89f9220b01d3d0362a171672d07b1b01011b6dcebb1dd7fa096981253c&=&format=webp&quality=lossless&width=1635&height=1206)
