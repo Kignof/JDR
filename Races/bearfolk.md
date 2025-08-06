@@ -1,6 +1,7 @@
-# Bearfolk Names
+# Bearfolk
+<img width="587" height="904" alt="image" src="https://github.com/user-attachments/assets/18a5c8f1-d4dd-4854-aec7-f19a6830056b" />
 
-Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describes some honorable or prominent trait or feat of the bearfolk in question, or honors an ancestor.
+Bearfolk are given cub names by their parents, and when they come of age, they earn a new name, either bestowed upon them by an elder or one they choose themselves. This name befits a deed undertaken during their rite of passage into adulthood, describing some honorable or prominent trait or feat of the bearfolk in question, or honors an ancestor. Bearfolk also often clashes with  Leonin and Minos when their prides for their physical and battles prowess are compared to each others.
 
 ## Common Bearfolk Traits
 
