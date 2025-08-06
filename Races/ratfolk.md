@@ -1,15 +1,15 @@
 # Ratfolk
+<img width="772" height="988" alt="image" src="https://github.com/user-attachments/assets/a9068c95-f386-4e37-a51e-91c25d870785" />
 
-Ratfolk are small mouse-like folk with long, furred tails that help them balance. In proportion to the rest of their body, a Ratfolk’s legs are long and powerful. Ratfolks can be found in a variety of places across the Wood, usually forming their own communities within birdfolk perches and humblefolk villages. Seldom do they live alone. A Ratfolk’s home can contain several generations, including extended family and cousins living together under one roof. Ratfolks have a strong sense of family and like to surround themselves with good company wherever they rest.
+Ratfolk are small mouse-like folk with long, furred tails that help them balance. In proportion to the rest of their body, a Ratfolk’s legs are long and powerful. Ratfolks can be found in a variety of places across the world, usually forming their own communities within human societies and other species willing to welcome them. Seldom do they live alone. A Ratfolk’s home can contain several generations, including extended family and cousins living together under one roof. Ratfolks have a strong sense of family and like to surround themselves with good company wherever they rest.
 Outsize Courage
 
-Ratfolks are the smallest inhabitants of Humblewood, dwarfed by nearly every kind of creature they encounter. While they are quick and nimble, and possess an affable attitude, they are not very strong, brave, or powerful on their own. When they stand with a group, Ratfolks are emboldened: the presence of others reassures them, granting them the courage to face even the largest threats head on. They excel in team strategies, helping one another solve problems that could not be surmounted alone.
-Community First
+Ratfolks are the smallest inhabitants, dwarfed by nearly every kind of creature they encounter. While they are quick and nimble, and possess an affable attitude, they are not very strong, brave, or powerful on their own. When they stand with a group, Ratfolks are emboldened: the presence of others reassures them, granting them the courage to face even the largest threats head on. They excel in team strategies, helping one another solve problems that could not be surmounted alone.
+Community First !
 
 The communal slant of Ratfolks stems from more than just their love of good company: Ratfolk are kind and considerate creatures, known for their joviality and charm. Being small and not particularly strong gives them a perspective that allows them to easily empathize with others, though not all Ratfolks share this compassionate outlook. Some respond to the dangers outside their community by becoming insular and fearing all non-Ratfolks. Ratfolks value privacy, but true isolation from friends, families, or loved ones is considered to be the worst possible fate a Ratfolk could suffer.
 
 ## Ratfolk Traits
-
 
 Your ratfolk character has certain characteristics in common with all other ratfolk.
 
