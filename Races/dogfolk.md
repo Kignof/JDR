@@ -1,4 +1,7 @@
 # Dogfolk Traits 
+<img width="474" height="527" alt="image" src="https://github.com/user-attachments/assets/25d94839-5798-4d83-bfc3-51b66955d6ba" />
+
+
 
 ### Ability Score Increase. 
  Your Dexterity score increases by 1 and your Charisma by 1.
