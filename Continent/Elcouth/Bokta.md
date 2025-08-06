@@ -1,1 +1,2 @@
-
+Le Pays de Bokta est une empire Militaire et Authoritaire dirigé par un unique empereur, celui-ci entouré par le Concilium Magnorum, le Reagen Imperalis and the Inquisitio pour l'aider dans son role et ses devoirs. L'empire est gorgé d'une histoire violente et pleine de guerres et batailles le poussant toujours plus vers de nouvelles créations dans le but d'avoir un avantage en guerre. 
+Les Rangs de l'empire varie tout autant que les races connues de ce monde, ne discriminant contre aucune race tant qu'elles se prouvent utilent dans l'effort de supériorité lorsque les temps de guerres reviendront
