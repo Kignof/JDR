@@ -1,5 +1,8 @@
+# Angel
+<img width="1000" height="678" alt="image" src="https://github.com/user-attachments/assets/3ad42fec-1785-4278-8adb-b88bf77f488c" />
 
-# Angel Features
+Angels are holy beings born from a divine being. However due to a transgression lost to time, Angels now dwell on the same earth as mortals, sharing with them mortality and the harshness of it.
+Despite their creator's original intentions Angels are naturally good natured and kind. However after living Millenias amongst mortals and losing direct divine connection over time, Angels still foster the embers of their divinity of past and wield it in battle with a fierce righenousness.
 
 ### Ability Scores Increase. 
 your Charisma score increases by 2 and your Wisdom +1.
@@ -11,9 +14,7 @@ Angel's are mostly humanoid but can look like any other race in order to blend i
 Angel's are mortal and mature as fast as humans do as well as Living up to 350 years
 
 ### Alignment . 
-Angel's are holy beings once born from a divine being. 
-Despite their creator's original alignment Angels were naturally good natured and kind. However after living Millenias amongst mortals and losing their divine connection over time, 
-Angels still tend to stay toward the lawful or neutral side of things, but there have been cases in which Angels were chaotic due to what they call "corruption from mortals".
+Angels tend to stay toward the lawful or neutral side of things, but there have been cases in which Angels were chaotic due to what they call "corruption from mortals".
 
 ### Wings. 
 Angels have a flying speed of 60 feet.
