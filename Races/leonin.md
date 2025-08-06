@@ -1,4 +1,9 @@
 # Leonin
+<img width="1500" height="1102" alt="image" src="https://github.com/user-attachments/assets/78e90a11-4d01-4dcd-b733-8b6b61e6b51a" />
+
+The leonin live on a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond their home border mountains and seek to test themselves in a wider world.
+
+
 
 ### Ability Score Increase. 
 Your Constitution score increases by 2, and your Strength score increases by 1.
